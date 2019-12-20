@@ -18,6 +18,8 @@ public class LoginTestCase {
 			LoginActivity loginActivity = new LoginActivity();
 			Assert.assertTrue(loginActivity.doLogin(userName, password), "***Login Failed***");
 			System.out.println("My first Commit");
+			System.out.println("My first Commit was wrong");
+		
 		}
 	}
 	
